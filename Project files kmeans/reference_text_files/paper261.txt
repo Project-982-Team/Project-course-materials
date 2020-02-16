@@ -1,0 +1,25 @@
+- إسماعيل، مصطفي كمال. (2001). "دور النسبية المالية في تقدير مستقبل قطاع التأمين في جمهورية مصر العربية"، المؤتمر
+الدولي، الصناعة التأمينية في العالم العربي، واقعها ومستقبلها، مركز صالح عبد الله كامل للاقتصاد الإسلامي، جامعة الأزهر.
+- الهيئة المصرية للرقابة على التأمين. (د.ت). الكتاب السنوي الإحصائي عن سوق التأمين المصري، أعداد مختلفة.
+- جلول، عطية محمد. (2009). "استخدام التحليل البيزي في تقدير الملاءة المالية لشركات التأمين المصرية"، مجلة الدراسات
+المالية والتجارية، كلية التجارة، جامعة بني سويف، العدد الأول، مارس.
+- حربي، جلال عبد الحليم. (1996). "التحليل البيزي لمعدلات الخسارة في تأمين الممتلكات والمسئولية"، مجلة المحاسبة الإدارية
+والتأمين، كلية التجارة، جامعة القاهرة، العدد 50.
+- حسين، معوض حسن؛ وآخرون. (1990). "قياس الملاءة المالية لشركات التأمين الكويتية"، مجلة العلوم التجارية، العدد35، كلية
+التجارة والاقتصاد والعلوم السياسية، جامعة الكويت، 1990.
+- سليمان، أسامة ربيع. (د.ت). التنبؤ بمعدلات الخسارة في شركات تأمينات الممتلكات والمسئولية باستخدام نماذج الانحدار
+الذاتي والمتوسطات المتحركة التكاملية. المنوفية: كلية التجارة، جامعة المنوفية، شبكة المعلومات العالمية.
+- عمار، منى محمد. (1998). "الاتجاهات الحديثة لقياس الملاءة المالية لشركات التأمين"، مجلة المحاسبة والإدارة والتأمين،
+جامعة القاهرة، كلية التجارة، العدد 53.
+- Doherty, Neil and Ham Bin Kang. (1988). “Insert Rates and Insurance Prices Cycles”, Journal of
+Banking and Finance,
+- Lamm – Tennant, j.; L. Starks and L. Stokes. An Empirical Bayes Approach to Estimating Loss
+ratios, Journal of Risk and Insurance.
+- Margaret, Brown. (1996). Modeling and Forecasting in Insurance Management: A Guide to
+Insurance. Edited by: Stephen Diacn Macmillan.
+- Morris, Carl and Lee Van Slyke. (1978). Empirical Bayes Methods for Pricing Insurance Claims,
+Proceedings of the Business and Economics Statistics Section. Washington, D. C.: American
+Statistical Association.
+- Neuhaus, Walther .(1984). “Inference About Parameters in Empirical Linear Bayes Estimation
+Problems”, Scandinavian Actuarial Journal.
+- Norberg, Ragnar. (1980). “Empirical Bayes Gedibility”, Scandinavian Actuarial Journal.
