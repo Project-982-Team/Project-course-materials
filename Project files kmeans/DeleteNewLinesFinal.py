@@ -9,6 +9,7 @@ for text_name in ref_arr:
 
     f = open(file_path + '/' + text_name, 'r', encoding = 'utf-8')
     lines = f.readlines()
+    f.close()
     update_lines = {}
     j = 0
     
@@ -36,6 +37,7 @@ for text_name in test_ref_arr:
     lines = f.readlines()
     update_lines = {}
     j = 0
+    f.close()
     
     #delete newlines
     for i in range(len(lines)):
