@@ -1,0 +1,87 @@
+محسن رفعتی، پداله آذرین فر و رویا محمدزاده
+(۲۰۱۰)، انتخاب الگوی مناسب پیش بینی سطح زیر
+کشت، تولید و قیمت چغندرقند در ایران، نشریه
+اقتصاد و توسعه کشاورزی (علوم و صنایع کشاورزی)،
+۱۶۰ - ۱۴۹ ،۲
+.Conditional
+(1989),
+V.
+Akgiray,
+Heteroskedasticity in Time Series of Stock
+Returns: Evidence and Forecasts, Journal of
+Business, 62, 55-80.
+Andersen, T. &T. Bollerslev, (1997). Answering
+the Critics: Yes ARCH Models do Provide
+Good Volatility Forecasts, Kellogg School,
+Northwestern University. 227
+index
+Brooks, C. (1998), Predicting stock
+volatility: Can market volume help?, Journal of
+Forecasting, 17, 59-80.
+Brooks R. D. & Lee J. H. (1997), The Stability
+of ARCH Models Across Australian Financial
+Financial
+Applied
+Markets,
+Futures
+Economics, 7, 347-359.
+Durbin. James (2004). “ State space and
+unobserved component models “. Cambridge
+University Press.
+Fiva Skarbøvik.Lars (2013), “ Forecasting House
+Prices in Norway“, Master Thesis, TROSMØ
+University Business School.
+garcía-cicco. J. & Montero. R. (2011). Modeling
+Copper Price: A Regime-Switching Approach,
+Pontifical Catholic University of Argentina,
+Working Paper
+Hamilton, J. D. 1994, Time Series
+Analysis,Princeton University Press,
+Princeton, New Jeresey
+Jorion, P. (1995). Predicting Volatility in the
+Foreign Exchange Market, Journal of Finance,
+50, 507-28.
+Mapa.Dennis S., Mercader.Mazhiel H. and
+Tolentino. Kristine Joy P. (2010), “ GARCH
+vs. SV in Forecasting Asset Volatility:Do We
+Need Another Volatility Model?“, 11th
+National Convention on Statistics (NCS)
+Maskus, K. E. (1990). Exchange rate risk and US
+trade: A sectoral analysis, Financial Market
+Volatility and the Economy, Federal Reserve
+Bank of Kansas City.
+Muhammad Kashif, Asghar Ali and Muhammad
+Aslam (2011), “Estimation and Forecast of the
+Models for Stock Market Performance of the
+Oil & Gas Companies in Pakistan", Pakistan
+Journal of Social Sciences (PJSS) Vol. 31, No.
+2,P: 345-363
+Pagan, A.& Schwert G. W., (1990). Alternative
+models for conditional stock volatilities,
+Journal of Econometrics, 45, 267-90.
+Saini. Neha & Mittal. Anil Kumar, (2013).
+Forecasting Volatility in Indian Stock Market
+using State Space Models, Journal of Statistical
+and Econometric Methods,.3,.1, 115-136
+Sascha M. (2009), Applications of State Space
+Models in Finance, Verlag Göttingen
+University
+Ser-Huang. Poon & Granger. Clive, (2003).
+Forecasting Volatility in Financial Markets: A
+Review , Journal of Economic Literature, 41, 2,
+478-539.
+Siti Roslindar Yaziz, Maizah Hura Ahmad, Lee
+Chee Nian and Noryanti Muhammad, (2011), “
+A Comparative Study on Box-Jenkins and
+Garch Models in Forecasting Crude Oil Prices
+", Journal of Applied Sciences, V. 11, 7, P:
+1129-1135
+Tse, Y. K., (1991). Stock return volatility in the
+Tokyo stock market, Japan and the World
+Economy, 3, 285-98.
+Tse, Y. K. & Tung, S. H. (1992). Forecasting
+volatility in the Singapore stock market, Asia
+Pacific Journal of Management, 9, 1-13.
+West, K. D. & D. Cho, (1995), The Predictive
+Ability of Several Models of Exchange Rate Volatility, Journal of Econometrics, 69, 367-
+91.
